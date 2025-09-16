@@ -1,55 +1,57 @@
-# Evolución de la Computadora y Sistema Binario
+# Evolution of the Computer and the Binary System  
 
-Este documento forma parte de mi certificación de **Fundamentos de Programación e Ingeniería de Software en Platzi**.  
-En él resumo la evolución de la computadora y la importancia del sistema binario, considerado la raíz de todo lo que conocemos hoy en tecnología.
-
----
-
-## Evolución de la Computadora
-
-Detrás de cada dispositivo que utilizamos con naturalidad (celulares, relojes inteligentes, supercomputadoras cuánticas y científicas) existe un recorrido histórico fascinante:
-
-1. **Herramientas rudimentarias**  
-   - Diseñadas por el ser humano para resolver operaciones simples y facilitar la vida cotidiana.
-
-2. **Engranajes industriales**  
-   - Máquinas impulsadas por la revolución mecánica y la máquina de vapor.
-
-3. **Era de la electricidad**  
-   - Nacimiento de las máquinas de cálculo modernas.
-
-4. **Internet y miniaturización**  
-   - Transformación en computadoras personales, móviles y cuánticas, pilares del desarrollo humano y promesa del futuro tecnológico.
+This document is part of my **Software Engineering Fundamentals certification at Platzi**.  
+It summarizes the evolution of the computer and the importance of the binary system, considered the root of everything we know today in technology.  
 
 ---
 
-## El sistema binario
+## Evolution of the Computer  
 
-Más allá de la historia lineal, lo que realmente me impactó es la simplicidad brutal sobre la que descansa todo el poder de la computación: **el sistema binario**.
+Behind every device we use so naturally (smartphones, smartwatches, quantum and scientific supercomputers) lies a fascinating historical journey:  
 
-- Todo lo que vemos en una pantalla (imágenes, letras, música, videos, videojuegos, algoritmos de IA) se reduce a combinaciones de dos símbolos: **0 y 1**.  
-- Con apenas dos dígitos, el sistema binario puede representar absolutamente todo.  
+1. **Rudimentary Tools**  
+   - Created by humans to solve simple operations and make daily life easier.  
 
-**Ejemplo:**  
-- La letra **“A”** se convierte en: 01000001
+2. **Industrial Gears**  
+   - Machines powered by the mechanical revolution and the steam engine.  
 
-Este patrón de bits, invisible a los ojos humanos, cobra vida como información. Para la máquina, no es una letra, sino una secuencia de impulsos eléctricos que se encienden y apagan en perfecta sincronía.
+3. **The Era of Electricity**  
+   - The birth of modern calculating machines.  
 
----
-
-## Reflexión
-
-La computadora es, en esencia, una **traductora entre el mundo humano y el lenguaje de la electricidad**.  
-Así como toda carrera profesional sólida requiere bases firmes, toda la tecnología moderna descansa en este binomio aparentemente sencillo, pero respaldado por un proceso de **inteligencia compleja y profunda**.
+4. **Internet and Miniaturization**  
+   - Transformation into personal, mobile, and quantum computers—pillars of human development and promises of technological progress.  
 
 ---
 
-## Próximos pasos
+## The Binary System  
 
-Este es el segundo aprendizaje documentado en mi portafolio técnico de GitHub.  
-Aquí iré registrando cada paso de mi formación en programación y ciberseguridad.  
+Beyond the linear history, what truly impacted me is the brutal simplicity upon which all computing power rests: **the binary system**.  
 
-👉 [Visita mi perfil en GitHub](https://github.com/JohnJacobV8)  
-👉 [Conecta conmigo en LinkedIn](https://www.linkedin.com/in/johnjacobv8)
+- Everything we see on a screen (images, letters, music, videos, video games, AI algorithms) is reduced to combinations of just two symbols: **0 and 1**.  
+- With only two digits, the binary system can represent absolutely everything.  
+
+**Example:**  
+- The letter **“A”** becomes: 01000001  
+
+This pattern of bits, invisible to human eyes, comes alive as information. For the machine, it is not a letter, but a sequence of electrical impulses turning on and off in perfect synchrony.  
+
+---
+
+## Reflection  
+
+The computer is, in essence, a **translator between the human world and the language of electricity**.  
+Just as every solid professional career requires firm foundations, all modern technology rests on this seemingly simple binary code—supported by a process of **complex and profound intelligence**.  
+
+---
+
+## Next Steps  
+
+This is the second learning documented in my technical portfolio on GitHub.  
+Here I will continue recording each step of my training in programming and cybersecurity.  
+
+👉 [Visit my GitHub profile](https://github.com/JohnJacobV8)  
+👉 [Connect with me on LinkedIn](https://www.linkedin.com/in/johnjacobv8)  
+🌐 Languages: Spanish (native), English C1 (advanced professional)  
+
 
 <img width="1536" height="1024" alt="PC EVOLUTION AND BYNARY CODE" src="https://github.com/user-attachments/assets/31667337-a1d9-4678-9d21-73b4668a9731" />
